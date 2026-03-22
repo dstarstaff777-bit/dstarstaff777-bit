@@ -26,3 +26,10 @@
 - JaCoCo
 - JUnit 5
 
+### ⚡ [simple-simulation](https://github.com/dstarstaff777-bit/simple-simulation)
+
+> Симулятор с использованием JavaFX.
+- Java 21
+- Gradle
+- JavaFX
+
