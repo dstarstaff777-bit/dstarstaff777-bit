@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Привет, меня зовут Валерий
 
-<!--
-**dstarstaff777-bit/dstarstaff777-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Java Backend Developer (Spring)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring](https://img.shields.io/badge/Spring-Boot-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue)
+![Docker](https://img.shields.io/badge/Docker-container-blue)
+![Gradle](https://img.shields.io/badge/Gradle-build-red)
+![Git](https://img.shields.io/badge/Git-version_control-black)
+
+---
+
+## 📂 Мои проекты
+
+### 🔥 todoList
+> Простой вариант задачника
+
+- Java 21
+- Gradle
+- JaCoCo
+- JUnit 5
+
+👉 [Посмотреть проект](https://github.com/dstarstaff777-bit/todoList-simple)
