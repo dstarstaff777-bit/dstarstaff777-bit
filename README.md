@@ -18,7 +18,7 @@
 
 ## 📂 Мои проекты
 
-### 🔥 todoList
+### 🔥 [todoList](https://github.com/dstarstaff777-bit/todoList-simple)
 > Простой вариант задачника
 
 - Java 21
@@ -26,4 +26,3 @@
 - JaCoCo
 - JUnit 5
 
-👉 [Посмотреть проект](https://github.com/dstarstaff777-bit/todoList-simple)
