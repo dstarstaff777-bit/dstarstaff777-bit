@@ -26,20 +26,10 @@
 ### ⚡ [simple-simulation](https://github.com/dstarstaff777-bit/simple-simulation)
 
 > Симулятор с использованием JavaFX.
-- Java 21
-- Gradle
-- JavaFX
+- Java 21 - Gradle - JavaFX
 
 ### 🚀 [TodoList-Api](https://github.com/dstarstaff777-bit/Todo_platform_api)
 
 > REST API для управления задачами с JWT аутентификацией
-- Java 21
-- Spring Boot 3.2
-- PostgreSQL
-- Flyway
-- JWT
-- Spring Security
-- Docker
-- JUnit 5
-- Testcontainers
+- Java 21 - Spring Boot 3.2 - PostgreSQL - Flyway - JWT - Spring Security - Docker - JUnit 5 - Testcontainers
 
