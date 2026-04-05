@@ -33,3 +33,7 @@
 > REST API для управления задачами с JWT аутентификацией
 - Java 21 - Spring Boot 3.2 - PostgreSQL - Flyway - JWT - Spring Security - Docker - JUnit 5 - Testcontainers
 
+### 🔎 [Vacancy-tracker](https://github.com/dstarstaff777-bit/vacancy-tracker)
+> Vacancy Tracker — это backend-приложение для управления и отслеживания вакансий и откликов.
+- Java 17+, Spring Boot, Spring Web, Spring Data JPA, Hibernate, PostgreSQL / H2, Docker (опционально), Gradle
+
