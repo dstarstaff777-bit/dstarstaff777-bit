@@ -21,10 +21,7 @@
 ### 🔥 [todoList](https://github.com/dstarstaff777-bit/todoList-simple)
 > Простой вариант задачника
 
-- Java 21
-- Gradle
-- JaCoCo
-- JUnit 5
+- Java 21 - Gradle - JaCoCo - JUnit 5
 
 ### ⚡ [simple-simulation](https://github.com/dstarstaff777-bit/simple-simulation)
 
