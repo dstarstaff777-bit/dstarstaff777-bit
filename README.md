@@ -1,5 +1,7 @@
 # 👋 Привет, меня зовут Валерий
 
+![Profile views](https://komarev.com/ghpvc/?username=dstarstaff777-bit&style=flat-square)
+
 🚀 Java Backend Developer (Spring)
 
 ---
