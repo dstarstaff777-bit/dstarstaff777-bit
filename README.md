@@ -20,15 +20,6 @@
 
 ## 📂 Мои проекты
 
-### 🔥 [todoList](https://github.com/dstarstaff777-bit/todoList-simple)
-> Простой вариант задачника
-
-- Java 21 - Gradle - JaCoCo - JUnit 5
-
-### ⚡ [simple-simulation](https://github.com/dstarstaff777-bit/simple-simulation)
-
-> Симулятор с использованием JavaFX.
-- Java 21 - Gradle - JavaFX
 
 ### 🚀 [TodoList-Api](https://github.com/dstarstaff777-bit/Todo_platform_api)
 
